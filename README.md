@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md.Iftykhar Rahman Ifty (IFTY25)  
+# 👋 Hi, I'm Ifty (IFTY25)
 
 🎓 4th-year EEE Undergraduate | Electronics Major  
 ⚡ Passionate about **Analog & Mixed-Signal IC Design**  
@@ -6,14 +6,16 @@
 🚀 Current Project: *Automatic Power Factor Corrector*  
 🌱 Thesis: *Dynamically Tunable Optical–Thermal Absorber for the Terahertz Regime*  
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/iftykhar-rahman/) | [Email](mailto:iftykharrahman25@gmail.com)  
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/iftykhar-rahman/) | [Email](mailto:iftykharrahman25@gmail.com)
 
 ---
 
 ## 🧰 Tools & Skills
-- **EDA & Simulation Tools:** Cadence Virtuoso, LTSpice, Proteus, Multisim  
-- **Programming & Scripting:** Verilog, MATLAB, C++, Arduino ,PSpice, LTSpice 
-- **Domains:** Analog IC Design, VLSI, IoT, Power Electronics  
+![Verilog](https://img.shields.io/badge/Verilog-F05032?style=flat-square&logo=verilog&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence-FF6F61?style=flat-square&logo=cadence&logoColor=white)
+![LTSpice](https://img.shields.io/badge/LTSpice-0055A5?style=flat-square)
 
 ---
 
@@ -26,18 +28,18 @@
 
 ---
 
-## 🌱 Learning Journey
-- Advanced **Analog IC Layout & SPICE Simulation**  
-- Exploring **Terahertz Absorbers & 2D Material Applications**  
-- Preparing for a **career in IC design and semiconductor research**  
-
----
-
 ## 📚 Upcoming Courses
 - **VLSI II**  
 - **Compound Semiconductor and Heterojunction Devices**  
 - **Computer Architecture**  
 - **Power Electronics**  
+
+---
+
+## 🌱 Learning Journey
+- Advanced **Analog IC Layout & SPICE Simulation**  
+- Exploring **Terahertz Absorbers & 2D Material Applications**  
+- Preparing for a **career in IC design and semiconductor research**  
 
 ---
 
